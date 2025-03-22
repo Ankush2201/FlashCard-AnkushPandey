@@ -21,7 +21,7 @@ To get started with the app, follow these steps:
 1. **Clone the Repository:**
 
    ```bash
-   [git clone https://github.com/Ankush2201/FlashCard-AnkushPandey.git](https://github.com/Ankush2201/FlashCard-AnkushPandey.git)
+   git clone https://github.com/Ankush2201/FlashCard-AnkushPandey.git
    cd FlashCard-AnkushPandey
    ```
 
