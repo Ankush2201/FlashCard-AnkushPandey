@@ -21,8 +21,8 @@ To get started with the app, follow these steps:
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/your-username/flashcard-app.git
-   cd flashcard-app
+   [git clone https://github.com/Ankush2201/FlashCard-AnkushPandey.git](https://github.com/Ankush2201/FlashCard-AnkushPandey.git)
+   cd FlashCard-AnkushPandey
    ```
 
 2. **Install Dependencies:**
